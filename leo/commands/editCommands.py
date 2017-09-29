@@ -213,7 +213,14 @@ class EditCommandsClass(BaseEditCommandsClass):
         else:
             p.h = strtodo + s
         c.redraw(p)
-        
+
+    @cmd('insert-todo-node')
+    def toggleTodoDone(self, event=None):
+        frame = self
+        c, p = frame.c, self.c.p
+
+        p.h = "@todos"
+        c.redraw(p)
 
     #@+node:tbrown.20151118134307.1: *3* ec.path_for_p
     def path_for_p(self, c, p):
