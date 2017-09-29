@@ -200,6 +200,21 @@ class EditCommandsClass(BaseEditCommandsClass):
             else:
                 p.h = time
             c.redrawAndEdit(p, selectAll=True)
+            
+    @cmd('toggle-todo-done')
+    def toggleTodoDone(self, event=None):
+        frame = self
+        c, p = frame.c, self.c.p
+
+        s = p.h.rstrip()
+        strtodo = "[X] "
+        if s.startswith(strtodo):
+            p.h = s.replace(strtodo, "")
+        else:
+            p.h = strtodo + s
+        c.redraw(p)
+        
+
     #@+node:tbrown.20151118134307.1: *3* ec.path_for_p
     def path_for_p(self, c, p):
         """path_for_p - return the filesystem path (directory) containing
