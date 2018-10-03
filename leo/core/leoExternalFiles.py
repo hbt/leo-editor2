@@ -234,7 +234,8 @@ class ExternalFilesController(object):
         if trace: g.trace(repr(ef))
         c, p = ef.c, ef.p.copy()
         # Ask the user how to resolve the conflict.
-        if self.ask(c, ef.path, p=p):
+        # if self.ask(c, ef.path, p=p):
+        if c.config.getBool('vim_ignore_conflicts') or self.ask(c, ef.path, p=p):
             g.blue('updated %s' % p.h)
             s, e = g.readFileIntoString(ef.path)
             p.b = s
