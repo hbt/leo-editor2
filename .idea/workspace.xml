@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="276c3d88-696c-45bb-a596-f6571aa2f60f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leo/core/leoExternalFiles.py" afterPath="$PROJECT_DIR$/leo/core/leoExternalFiles.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leo/plugins/vim.py" afterPath="$PROJECT_DIR$/leo/plugins/vim.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,10 +19,11 @@
       <file leaf-file-name="vim.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leo/plugins/vim.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="219" column="38" lean-forward="false" selection-start-line="219" selection-start-column="38" selection-end-line="219" selection-end-column="38" />
+            <state relative-caret-position="499">
+              <caret line="291" column="26" lean-forward="false" selection-start-line="291" selection-start-column="26" selection-end-line="291" selection-end-column="26" />
               <folding>
-                <marker date="1538569527471" expanded="false" signature="11889:12058" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <element signature="e#130#1066#1" expanded="true" />
+                <marker date="1538570006191" expanded="false" signature="11872:12041" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
               </folding>
             </state>
           </provider>
@@ -591,10 +591,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leo/plugins/vim.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="219" column="38" lean-forward="false" selection-start-line="219" selection-start-column="38" selection-end-line="219" selection-end-column="38" />
+        <state relative-caret-position="499">
+          <caret line="291" column="26" lean-forward="false" selection-start-line="291" selection-start-column="26" selection-end-line="291" selection-end-column="26" />
           <folding>
-            <marker date="1538569527471" expanded="false" signature="11889:12058" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <element signature="e#130#1066#1" expanded="true" />
+            <marker date="1538570006191" expanded="false" signature="11872:12041" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
           </folding>
         </state>
       </provider>

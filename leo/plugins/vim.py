@@ -179,7 +179,7 @@ elif sys.platform == 'darwin':
     _vim_cmd = "/Applications/gvim.app/Contents/MacOS/gvim --servername LEO"
     _vim_exe = "gvim"
 else:
-    _vim_cmd = "gvim --servername LEO"
+    _vim_cmd = "gvim"
     _vim_exe = "gvim"
 # Global message flags.
 contextmenu_message_given = False
@@ -252,16 +252,16 @@ class VimCommander(object):
         if not root:
             return
         path = self.find_path_for_node(root)
-        if path and self.should_open_old_file(path, root):
-            if trace: g.trace('old file:', path)
-            cmd = self.vim_cmd + "--remote-send '<C-\\><C-N>:e " + path + "<CR>'"
-            if self.trace: g.trace('os.system(%s)' % cmd)
-            os.system(cmd)
-        else:
+        # if path and self.should_open_old_file(path, root):
+        #     if trace: g.trace('old file:', path)
+        #     cmd = self.vim_cmd + "--remote-send '<C-\\><C-N>:e " + path + "<CR>'"
+        #     if self.trace: g.trace('os.system(%s)' % cmd)
+        #     os.system(cmd)
+        # else:
             # Open a new temp file.
-            if trace: g.trace('new file:', path)
-            if path: self.forget_path(path)
-            self.open_file(root)
+        if trace: g.trace('new file:', path)
+        if path: self.forget_path(path)
+        self.open_file(root)
     #@+node:ekr.20150326183613.1: *4* vim.check_args & helper
     def check_args(self):
         '''Return True of basic checks pass.'''
