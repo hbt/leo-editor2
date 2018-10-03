@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="276c3d88-696c-45bb-a596-f6571aa2f60f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leo/commands/editCommands.py" afterPath="$PROJECT_DIR$/leo/commands/editCommands.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,12 +15,12 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="editCommands.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="editCommands.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leo/commands/editCommands.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="221" column="20" lean-forward="false" selection-start-line="221" selection-start-column="20" selection-end-line="221" selection-end-column="20" />
+            <state relative-caret-position="3401">
+              <caret line="203" column="27" lean-forward="false" selection-start-line="203" selection-start-column="27" selection-end-line="203" selection-end-column="27" />
               <folding>
                 <element signature="e#237#251#0" expanded="true" />
                 <element signature="e#3240#3813#1" expanded="true" />
@@ -54,7 +54,52 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="commands.html.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/commands.html.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12749">
+              <caret line="671" column="4" lean-forward="false" selection-start-line="671" selection-start-column="4" selection-end-line="671" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commands.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_sources/commands.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12768">
+              <caret line="672" column="4" lean-forward="false" selection-start-line="672" selection-start-column="4" selection-end-line="672" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commands.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/_build/html/_sources/commands.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12730">
+              <caret line="670" column="4" lean-forward="false" selection-start-line="670" selection-start-column="4" selection-end-line="670" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tutorial-pim.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/tutorial-pim.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>open-url</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -150,14 +195,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leo-editor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leo-editor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wion" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -173,45 +233,45 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299595" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299595" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -224,8 +284,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/leo/commands/editCommands.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="221" column="20" lean-forward="false" selection-start-line="221" selection-start-column="20" selection-end-line="221" selection-end-column="20" />
+        <state relative-caret-position="3857">
+          <caret line="203" column="27" lean-forward="false" selection-start-line="203" selection-start-column="27" selection-end-line="203" selection-end-column="27" />
           <folding>
             <element signature="e#237#251#0" expanded="true" />
             <element signature="e#3240#3813#1" expanded="true" />
@@ -255,6 +315,210 @@
             <element signature="e#141223#141790#1" expanded="true" />
             <element signature="e#143985#144185#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/commands.html.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12749">
+          <caret line="671" column="4" lean-forward="false" selection-start-line="671" selection-start-column="4" selection-end-line="671" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_sources/commands.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12768">
+          <caret line="672" column="4" lean-forward="false" selection-start-line="672" selection-start-column="4" selection-end-line="672" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_build/html/_sources/commands.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12730">
+          <caret line="670" column="4" lean-forward="false" selection-start-line="670" selection-start-column="4" selection-end-line="670" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tutorial-pim.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/commands/editCommands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3857">
+          <caret line="203" column="27" lean-forward="false" selection-start-line="203" selection-start-column="27" selection-end-line="203" selection-end-column="27" />
+          <folding>
+            <element signature="e#237#251#0" expanded="true" />
+            <element signature="e#3240#3813#1" expanded="true" />
+            <element signature="e#5585#5908#1" expanded="true" />
+            <element signature="e#9122#9581#1" expanded="true" />
+            <element signature="e#15492#15618#1" expanded="true" />
+            <element signature="e#20289#20451#1" expanded="true" />
+            <element signature="e#21773#21892#1" expanded="true" />
+            <element signature="e#34118#34475#1" expanded="true" />
+            <element signature="e#38766#38929#1" expanded="true" />
+            <element signature="e#44439#45114#1" expanded="true" />
+            <element signature="e#61813#61945#1" expanded="true" />
+            <element signature="e#63662#63871#1" expanded="true" />
+            <element signature="e#75505#75732#1" expanded="true" />
+            <element signature="e#76182#76417#1" expanded="true" />
+            <element signature="e#78512#78732#1" expanded="true" />
+            <element signature="e#81480#81621#1" expanded="true" />
+            <element signature="e#83767#83903#1" expanded="true" />
+            <element signature="e#88212#88371#1" expanded="true" />
+            <element signature="e#90759#90868#1" expanded="true" />
+            <element signature="e#98597#98714#1" expanded="true" />
+            <element signature="e#116588#116703#1" expanded="true" />
+            <element signature="e#122838#122997#1" expanded="true" />
+            <element signature="e#124765#124892#1" expanded="true" />
+            <element signature="e#129847#129964#1" expanded="true" />
+            <element signature="e#139957#140076#1" expanded="true" />
+            <element signature="e#141223#141790#1" expanded="true" />
+            <element signature="e#143985#144185#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/commands.html.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12749">
+          <caret line="671" column="4" lean-forward="false" selection-start-line="671" selection-start-column="4" selection-end-line="671" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_sources/commands.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12768">
+          <caret line="672" column="4" lean-forward="false" selection-start-line="672" selection-start-column="4" selection-end-line="672" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_build/html/_sources/commands.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12730">
+          <caret line="670" column="4" lean-forward="false" selection-start-line="670" selection-start-column="4" selection-end-line="670" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tutorial-pim.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/commands/editCommands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#237#251#0" expanded="true" />
+            <element signature="e#3240#3813#1" expanded="true" />
+            <element signature="e#5585#5908#1" expanded="true" />
+            <element signature="e#9122#9581#1" expanded="true" />
+            <element signature="e#15492#15618#1" expanded="true" />
+            <element signature="e#20289#20451#1" expanded="true" />
+            <element signature="e#21773#21892#1" expanded="true" />
+            <element signature="e#34118#34475#1" expanded="true" />
+            <element signature="e#38766#38929#1" expanded="true" />
+            <element signature="e#44439#45114#1" expanded="true" />
+            <element signature="e#61813#61945#1" expanded="true" />
+            <element signature="e#63662#63871#1" expanded="true" />
+            <element signature="e#75505#75732#1" expanded="true" />
+            <element signature="e#76182#76417#1" expanded="true" />
+            <element signature="e#78512#78732#1" expanded="true" />
+            <element signature="e#81480#81621#1" expanded="true" />
+            <element signature="e#83767#83903#1" expanded="true" />
+            <element signature="e#88212#88371#1" expanded="true" />
+            <element signature="e#90759#90868#1" expanded="true" />
+            <element signature="e#98597#98714#1" expanded="true" />
+            <element signature="e#116588#116703#1" expanded="true" />
+            <element signature="e#122838#122997#1" expanded="true" />
+            <element signature="e#124765#124892#1" expanded="true" />
+            <element signature="e#129847#129964#1" expanded="true" />
+            <element signature="e#139957#140076#1" expanded="true" />
+            <element signature="e#141223#141790#1" expanded="true" />
+            <element signature="e#143985#144185#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/commands/editCommands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3401">
+          <caret line="203" column="27" lean-forward="false" selection-start-line="203" selection-start-column="27" selection-end-line="203" selection-end-column="27" />
+          <folding>
+            <element signature="e#237#251#0" expanded="true" />
+            <element signature="e#3240#3813#1" expanded="true" />
+            <element signature="e#5585#5908#1" expanded="true" />
+            <element signature="e#9122#9581#1" expanded="true" />
+            <element signature="e#15492#15618#1" expanded="true" />
+            <element signature="e#20289#20451#1" expanded="true" />
+            <element signature="e#21773#21892#1" expanded="true" />
+            <element signature="e#34118#34475#1" expanded="true" />
+            <element signature="e#38766#38929#1" expanded="true" />
+            <element signature="e#44439#45114#1" expanded="true" />
+            <element signature="e#61813#61945#1" expanded="true" />
+            <element signature="e#63662#63871#1" expanded="true" />
+            <element signature="e#75505#75732#1" expanded="true" />
+            <element signature="e#76182#76417#1" expanded="true" />
+            <element signature="e#78512#78732#1" expanded="true" />
+            <element signature="e#81480#81621#1" expanded="true" />
+            <element signature="e#83767#83903#1" expanded="true" />
+            <element signature="e#88212#88371#1" expanded="true" />
+            <element signature="e#90759#90868#1" expanded="true" />
+            <element signature="e#98597#98714#1" expanded="true" />
+            <element signature="e#116588#116703#1" expanded="true" />
+            <element signature="e#122838#122997#1" expanded="true" />
+            <element signature="e#124765#124892#1" expanded="true" />
+            <element signature="e#129847#129964#1" expanded="true" />
+            <element signature="e#139957#140076#1" expanded="true" />
+            <element signature="e#141223#141790#1" expanded="true" />
+            <element signature="e#143985#144185#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/commands.html.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12749">
+          <caret line="671" column="4" lean-forward="false" selection-start-line="671" selection-start-column="4" selection-end-line="671" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_sources/commands.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12768">
+          <caret line="672" column="4" lean-forward="false" selection-start-line="672" selection-start-column="4" selection-end-line="672" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_build/html/_sources/commands.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12730">
+          <caret line="670" column="4" lean-forward="false" selection-start-line="670" selection-start-column="4" selection-end-line="670" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tutorial-pim.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
