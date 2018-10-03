@@ -20,8 +20,8 @@
       <file leaf-file-name="vim.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leo/plugins/vim.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="225" column="38" lean-forward="false" selection-start-line="225" selection-start-column="38" selection-end-line="225" selection-end-column="38" />
+            <state relative-caret-position="345">
+              <caret line="219" column="38" lean-forward="false" selection-start-line="219" selection-start-column="38" selection-end-line="219" selection-end-column="38" />
               <folding>
                 <marker date="1538569527471" expanded="false" signature="11889:12058" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
               </folding>
@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/leo/core/leoExternalFiles.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="529">
-              <caret line="237" column="79" lean-forward="false" selection-start-line="237" selection-start-column="79" selection-end-line="237" selection-end-column="79" />
+              <caret line="237" column="48" lean-forward="false" selection-start-line="237" selection-start-column="48" selection-end-line="237" selection-end-column="48" />
               <folding>
                 <element signature="e#3532#3644#1" expanded="true" />
                 <element signature="e#4709#4799#1" expanded="true" />
@@ -579,7 +579,7 @@
     <entry file="file://$PROJECT_DIR$/leo/core/leoExternalFiles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
-          <caret line="237" column="79" lean-forward="false" selection-start-line="237" selection-start-column="79" selection-end-line="237" selection-end-column="79" />
+          <caret line="237" column="48" lean-forward="false" selection-start-line="237" selection-start-column="48" selection-end-line="237" selection-end-column="48" />
           <folding>
             <element signature="e#3532#3644#1" expanded="true" />
             <element signature="e#4709#4799#1" expanded="true" />
@@ -591,8 +591,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leo/plugins/vim.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="225" column="38" lean-forward="false" selection-start-line="225" selection-start-column="38" selection-end-line="225" selection-end-column="38" />
+        <state relative-caret-position="345">
+          <caret line="219" column="38" lean-forward="false" selection-start-line="219" selection-start-column="38" selection-end-line="219" selection-end-column="38" />
           <folding>
             <marker date="1538569527471" expanded="false" signature="11889:12058" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
           </folding>
