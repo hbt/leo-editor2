@@ -3626,6 +3626,19 @@ def openUrl(event=None):
         # // Note(hbt) by default opens in new window, so dont use xdg-open in order to open in new tab
         # os.system("xurls " + filepath + " | xargs -I '{}' xdg-open '{}'")
         os.system("xurls " + filepath + " | xargs -I '{}' /usr/bin/google-chrome-stable '{}'")
+
+@g.command('open-url-window')
+def openUrlWindow(event=None):
+    c = event.get('c')
+    if c:
+        # g.openUrl(c.p)
+        filepath = "/tmp/leo-url-tmp-" + str(uuid.uuid4())
+        tmpf = open(filepath, "w+")
+        tmpf.write(c.p.h)
+        tmpf.close()
+        # // Note(hbt) by default opens in new window, so dont use xdg-open in order to open in new tab
+        os.system("xurls " + filepath + " | xargs -I '{}' xdg-open '{}'")
+        # os.system("xurls " + filepath + " | xargs -I '{}' /usr/bin/google-chrome-stable '{}'")
         
 #@+node:ekr.20150514125218.6: *3* open-url-under-cursor
 @g.command('open-url-under-cursor')
