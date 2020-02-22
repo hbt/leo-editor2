@@ -3625,7 +3625,8 @@ def openUrl(event=None):
         tmpf.close()
         # // Note(hbt) by default opens in new window, so dont use xdg-open in order to open in new tab
         # os.system("xurls " + filepath + " | xargs -I '{}' xdg-open '{}'")
-        os.system("xurls " + filepath + " | xargs -I '{}' /usr/bin/google-chrome-stable '{}'")
+        os.system("my-xurls " + filepath)
+        #os.system("xurls " + filepath + " | xargs -I '{}' /usr/bin/google-chrome-stable '{}'")
 
 @g.command('open-url-window')
 def openUrlWindow(event=None):
@@ -3637,7 +3638,7 @@ def openUrlWindow(event=None):
         tmpf.write(c.p.h)
         tmpf.close()
         # // Note(hbt) by default opens in new window, so dont use xdg-open in order to open in new tab
-        os.system("xurls " + filepath + " | xargs -I '{}' xdg-open '{}'")
+        os.system("my-xurls " + filepath + " | xargs -I '{}' xdg-open '{}'")
         # os.system("xurls " + filepath + " | xargs -I '{}' /usr/bin/google-chrome-stable '{}'")
         
 #@+node:ekr.20150514125218.6: *3* open-url-under-cursor
