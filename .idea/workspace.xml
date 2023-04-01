@@ -2,9 +2,16 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/leo/core/leoGlobals.py" line="6987" />
+    <bookmark url="file://$PROJECT_DIR$/leo/core/leoCommands.py" line="1068" />
+    <bookmark url="file://$PROJECT_DIR$/leo/core/leoCommands.py" line="6582" />
+    <bookmark url="file://$PROJECT_DIR$/leo/core/leoCommands.py" line="1060" />
+    <bookmark url="file://$PROJECT_DIR$/leo/plugins/qt_frame.py" line="1372" />
+    <bookmark url="file://$PROJECT_DIR$/leo/commands/editCommands.py" line="204" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="276c3d88-696c-45bb-a596-f6571aa2f60f" name="Default" comment="" />
+    <list default="true" id="276c3d88-696c-45bb-a596-f6571aa2f60f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +22,7 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="vim.py" pinned="false" current-in-tab="false">
@@ -39,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leoApp.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="leoApp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leo/core/leoApp.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -74,6 +82,141 @@
                 <element signature="e#151167#151315#1" expanded="true" />
                 <element signature="e#155483#155670#1" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leo_pdf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leo/plugins/leo_pdf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod_leo2ascd.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leo/plugins/mod_leo2ascd.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="livecode.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leo/plugins/livecode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2599">
+              <caret line="116" column="24" lean-forward="false" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="python_terminal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leo/plugins/python_terminal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qt_gui.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leo/plugins/qt_gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qt_text.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leo/plugins/qt_text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stickynotes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leo/plugins/stickynotes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leo/plugins/todo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26703">
+              <caret line="1252" column="37" lean-forward="false" selection-start-line="1252" selection-start-column="37" selection-end-line="1252" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editCommands.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leo/commands/editCommands.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="217" column="20" lean-forward="false" selection-start-line="217" selection-start-column="20" selection-end-line="217" selection-end-column="20" />
+              <folding>
+                <element signature="e#9122#9581#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qt_frame.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leo/plugins/qt_frame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30889">
+              <caret line="1379" column="13" lean-forward="false" selection-start-line="1379" selection-start-column="13" selection-end-line="1379" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leoCommands.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leo/core/leoCommands.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76406">
+              <caret line="3492" column="25" lean-forward="false" selection-start-line="3492" selection-start-column="25" selection-end-line="3492" selection-end-column="25" />
+              <folding>
+                <element signature="e#275581#275686#1" expanded="true" />
+                <element signature="e#292718#292921#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leoFrame.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leo/core/leoFrame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42320">
+              <caret line="1894" column="23" lean-forward="false" selection-start-line="1894" selection-start-column="23" selection-end-line="1894" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="macro-test.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/macro-test.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -212,6 +355,11 @@
       <find>has changed outside Leo</find>
       <find>ask(</find>
       <find>open-url</find>
+      <find>visibl</find>
+      <find>toggle-todo</find>
+      <find>hide all todo</find>
+      <find>LeoQtBody</find>
+      <find>set_invisibles</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -220,11 +368,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leo/commands/editCommands.py" />
         <option value="$PROJECT_DIR$/docs/tutorial-pim.html" />
         <option value="$PROJECT_DIR$/leo/core/leoExternalFiles.py" />
         <option value="$PROJECT_DIR$/leo/plugins/vim.py" />
         <option value="$PROJECT_DIR$/leo/core/leoApp.py" />
+        <option value="$PROJECT_DIR$/leo/commands/editCommands.py" />
       </list>
     </option>
   </component>
@@ -236,7 +384,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -249,88 +397,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo-editor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo-editor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo-editor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo-editor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo-editor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo-editor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extensions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo-editor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo-editor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo-editor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leo-editor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../wion" />
@@ -354,7 +421,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -378,26 +445,26 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Cabal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983193" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cabal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983193" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -408,6 +475,290 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/leo/plugins/vim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#130#1066#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tutorial-pim.html.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/core/leoApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#179#210#0" expanded="true" />
+            <element signature="e#767#1056#1" expanded="true" />
+            <element signature="e#2421#2528#1" expanded="true" />
+            <element signature="e#2710#2858#1" expanded="true" />
+            <element signature="e#38779#39152#1" expanded="true" />
+            <element signature="e#51379#51518#1" expanded="true" />
+            <element signature="e#56295#56402#1" expanded="true" />
+            <element signature="e#57364#57495#1" expanded="true" />
+            <element signature="e#67368#67500#1" expanded="true" />
+            <element signature="e#78699#78809#1" expanded="true" />
+            <element signature="e#80195#80326#1" expanded="true" />
+            <element signature="e#82477#82683#1" expanded="true" />
+            <element signature="e#85658#85793#1" expanded="true" />
+            <element signature="e#93031#93143#1" expanded="true" />
+            <element signature="e#95096#95240#1" expanded="true" />
+            <element signature="e#98226#98359#1" expanded="true" />
+            <element signature="e#101420#101740#1" expanded="true" />
+            <element signature="e#113045#113168#1" expanded="true" />
+            <element signature="e#122856#123019#1" expanded="true" />
+            <element signature="e#126540#127164#1" expanded="true" />
+            <element signature="e#128187#128724#1" expanded="true" />
+            <element signature="e#132815#132961#1" expanded="true" />
+            <element signature="e#138188#138349#1" expanded="true" />
+            <element signature="e#144599#144840#1" expanded="true" />
+            <element signature="e#146650#146789#1" expanded="true" />
+            <element signature="e#150501#150607#1" expanded="true" />
+            <element signature="e#151167#151315#1" expanded="true" />
+            <element signature="e#155483#155670#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/leo_pdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/mod_leo2ascd.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/livecode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2599">
+          <caret line="116" column="24" lean-forward="false" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/python_terminal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/qt_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/qt_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/stickynotes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/todo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26703">
+          <caret line="1252" column="37" lean-forward="false" selection-start-line="1252" selection-start-column="37" selection-end-line="1252" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/commands/editCommands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#9122#9581#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/qt_frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30889">
+          <caret line="1379" column="13" lean-forward="true" selection-start-line="1379" selection-start-column="13" selection-end-line="1379" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/core/leoCommands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76406">
+          <caret line="3492" column="25" lean-forward="false" selection-start-line="3492" selection-start-column="25" selection-end-line="3492" selection-end-column="25" />
+          <folding>
+            <element signature="e#275581#275686#1" expanded="true" />
+            <element signature="e#292718#292921#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/core/leoFrame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42320">
+          <caret line="1894" column="23" lean-forward="false" selection-start-line="1894" selection-start-column="23" selection-end-line="1894" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/macro-test.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/core/leoGlobals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145314">
+          <caret line="6780" column="24" lean-forward="false" selection-start-line="6780" selection-start-column="24" selection-end-line="6780" selection-end-column="24" />
+          <folding>
+            <element signature="e#106#237#1" expanded="true" />
+            <element signature="e#7005#7132#1" expanded="true" />
+            <element signature="e#8249#8380#1" expanded="true" />
+            <element signature="e#11294#11442#1" expanded="true" />
+            <element signature="e#14143#14371#1" expanded="true" />
+            <element signature="e#16831#16958#1" expanded="true" />
+            <element signature="e#24878#25014#1" expanded="true" />
+            <element signature="e#28452#28561#1" expanded="true" />
+            <element signature="e#35567#36976#1" expanded="true" />
+            <element signature="e#44675#44789#1" expanded="true" />
+            <element signature="e#50069#50190#1" expanded="true" />
+            <element signature="e#52079#52236#1" expanded="true" />
+            <element signature="e#61832#61911#1" expanded="true" />
+            <element signature="e#62158#62414#1" expanded="true" />
+            <element signature="e#70799#71009#1" expanded="true" />
+            <element signature="e#80646#80751#1" expanded="true" />
+            <element signature="e#81503#81741#1" expanded="true" />
+            <element signature="e#82073#82184#1" expanded="true" />
+            <element signature="e#82558#82920#1" expanded="true" />
+            <element signature="e#83519#83679#1" expanded="true" />
+            <element signature="e#84209#84346#1" expanded="true" />
+            <element signature="e#85311#85646#1" expanded="true" />
+            <element signature="e#88046#88225#1" expanded="true" />
+            <element signature="e#88986#89184#1" expanded="true" />
+            <element signature="e#91177#91302#1" expanded="true" />
+            <element signature="e#91644#91779#1" expanded="true" />
+            <element signature="e#92205#92329#1" expanded="true" />
+            <element signature="e#92787#92905#1" expanded="true" />
+            <element signature="e#93305#93510#1" expanded="true" />
+            <element signature="e#94722#94858#1" expanded="true" />
+            <element signature="e#101373#101518#1" expanded="true" />
+            <element signature="e#103034#103224#1" expanded="true" />
+            <element signature="e#104966#105124#1" expanded="true" />
+            <element signature="e#109366#109503#1" expanded="true" />
+            <element signature="e#110359#110508#1" expanded="true" />
+            <element signature="e#111989#112121#1" expanded="true" />
+            <element signature="e#118587#118719#1" expanded="true" />
+            <element signature="e#119461#119916#1" expanded="true" />
+            <element signature="e#122076#122381#1" expanded="true" />
+            <element signature="e#124165#124325#1" expanded="true" />
+            <element signature="e#127158#127362#1" expanded="true" />
+            <element signature="e#127920#128216#1" expanded="true" />
+            <element signature="e#129218#129483#1" expanded="true" />
+            <element signature="e#130670#131684#1" expanded="true" />
+            <element signature="e#137612#137711#1" expanded="true" />
+            <element signature="e#138523#138620#1" expanded="true" />
+            <element signature="e#139186#139348#1" expanded="true" />
+            <element signature="e#153574#153747#1" expanded="true" />
+            <element signature="e#153891#154066#1" expanded="true" />
+            <element signature="e#154202#154452#1" expanded="true" />
+            <element signature="e#154780#154889#1" expanded="true" />
+            <element signature="e#156359#156517#1" expanded="true" />
+            <element signature="e#157655#158068#1" expanded="true" />
+            <element signature="e#159628#160966#1" expanded="true" />
+            <element signature="e#163230#163480#1" expanded="true" />
+            <element signature="e#166120#166298#1" expanded="true" />
+            <element signature="e#166631#166863#1" expanded="true" />
+            <element signature="e#169624#169800#1" expanded="true" />
+            <element signature="e#170240#170326#1" expanded="true" />
+            <element signature="e#172337#172515#1" expanded="true" />
+            <element signature="e#173514#173839#1" expanded="true" />
+            <element signature="e#174840#174980#1" expanded="true" />
+            <element signature="e#176785#176874#1" expanded="true" />
+            <element signature="e#180457#180700#1" expanded="true" />
+            <element signature="e#185249#185401#1" expanded="true" />
+            <element signature="e#186122#186258#1" expanded="true" />
+            <element signature="e#192929#193096#1" expanded="true" />
+            <element signature="e#193969#194092#1" expanded="true" />
+            <element signature="e#195487#195684#1" expanded="true" />
+            <element signature="e#197190#197419#1" expanded="true" />
+            <element signature="e#200174#200393#1" expanded="true" />
+            <element signature="e#203752#203984#1" expanded="true" />
+            <element signature="e#208801#208881#1" expanded="true" />
+            <element signature="e#215312#215484#1" expanded="true" />
+            <element signature="e#220371#220502#1" expanded="true" />
+            <element signature="e#222490#222608#1" expanded="true" />
+            <element signature="e#224113#224288#1" expanded="true" />
+            <element signature="e#225135#225373#1" expanded="true" />
+            <element signature="e#225710#226012#1" expanded="true" />
+            <element signature="e#231041#231188#1" expanded="true" />
+            <element signature="e#232672#232807#1" expanded="true" />
+            <element signature="e#233937#234053#1" expanded="true" />
+            <element signature="e#235528#235717#1" expanded="true" />
+            <element signature="e#237528#237665#1" expanded="true" />
+            <element signature="e#240202#240383#1" expanded="true" />
+            <element signature="e#243043#243196#1" expanded="true" />
+            <element signature="e#243419#243542#1" expanded="true" />
+            <element signature="e#244834#244986#1" expanded="true" />
+            <element signature="e#246929#247119#1" expanded="true" />
+            <element signature="e#252409#252555#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/core/leoExternalFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4646">
+          <caret line="237" column="48" lean-forward="false" selection-start-line="237" selection-start-column="48" selection-end-line="237" selection-end-column="48" />
+          <folding>
+            <element signature="e#3532#3644#1" expanded="true" />
+            <element signature="e#4709#4799#1" expanded="true" />
+            <element signature="e#5175#5334#1" expanded="true" />
+            <element signature="e#7523#7628#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/threadutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leo/plugins/vim.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -901,13 +1252,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leo/commands/editCommands.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4117">
-          <caret line="203" column="27" lean-forward="false" selection-start-line="203" selection-start-column="27" selection-end-line="203" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/commands.html.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15433">
@@ -1114,6 +1458,115 @@
             <element signature="e#150501#150607#1" expanded="true" />
             <element signature="e#151167#151315#1" expanded="true" />
             <element signature="e#155483#155670#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/leo_pdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/mod_leo2ascd.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/livecode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2599">
+          <caret line="116" column="24" lean-forward="false" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/python_terminal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/qt_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/qt_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/stickynotes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/macro-test.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/core/leoFrame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42320">
+          <caret line="1894" column="23" lean-forward="false" selection-start-line="1894" selection-start-column="23" selection-end-line="1894" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/qt_frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30889">
+          <caret line="1379" column="13" lean-forward="false" selection-start-line="1379" selection-start-column="13" selection-end-line="1379" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/plugins/todo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26703">
+          <caret line="1252" column="37" lean-forward="false" selection-start-line="1252" selection-start-column="37" selection-end-line="1252" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/core/leoCommands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76406">
+          <caret line="3492" column="25" lean-forward="false" selection-start-line="3492" selection-start-column="25" selection-end-line="3492" selection-end-column="25" />
+          <folding>
+            <element signature="e#275581#275686#1" expanded="true" />
+            <element signature="e#292718#292921#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leo/commands/editCommands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="217" column="20" lean-forward="false" selection-start-line="217" selection-start-column="20" selection-end-line="217" selection-end-column="20" />
+          <folding>
+            <element signature="e#9122#9581#1" expanded="true" />
           </folding>
         </state>
       </provider>
